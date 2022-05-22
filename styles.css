@@ -1,0 +1,22 @@
+h1 {
+  color: yellow;
+}
+
+.search-container {
+  background: red;
+  font: italic 1.2em "Fira Sans", serif;
+}
+
+.search-form {
+  background: gray;
+  height: 300;
+  font: italic 1.2em "Fira Sans", serif;
+}
+
+body {
+  background: white;
+}
+
+.return_button {
+  text-align: center;
+}
